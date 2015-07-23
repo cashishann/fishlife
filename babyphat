@@ -1,0 +1,4 @@
+function setup(){
+	createCanvas (700,500);
+	background (1,255,1);
+}
